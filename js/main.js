@@ -1,1 +1,1 @@
-console.log("Curious? Join me! : discord.gg/0xdae")
+console.log("Curious? Join me! : ..")
